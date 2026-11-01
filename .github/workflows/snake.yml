@@ -1,14 +1,9 @@
 name: Generate Datas
 
 on:
-  # Har 6 ghante me automatically update hoga
   schedule:
     - cron: "0 */6 * * *"
-  
-  # Manual trigger karne ke liye option
   workflow_dispatch:
-  
-  # Har push par bhi update hoga
   push:
     branches:
       - main
@@ -18,22 +13,19 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout repository
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Generate the snake files
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate github-contribution-grid-snake.gif
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # 3. Push the generated files to an 'output' branch
-      - name: Push github-contribution-grid-snake.svg to the output branch
+            dist/github-contribution-grid-snake.gif
+
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
