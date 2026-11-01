@@ -28,11 +28,7 @@ A place to practise coding problems, strengthen algorithmic thinking, and track 
 A campus-management project in development, planned around student and faculty management, attendance, marks, timetables, and notices.
 Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 
-📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuragrahuwanshi&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragrahuwanshi&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 🔥 GitHub Streak
 ![GitHub Streak](https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/main/profile/streak.svg)
