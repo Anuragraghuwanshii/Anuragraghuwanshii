@@ -30,29 +30,18 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 
 📊 GitHub Statistics
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Anuragrahuwanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragrahuwanshi&theme=tokyonight&hide_border=true&layout=compact"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuragrahuwanshi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragrahuwanshi&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
 🔥 GitHub Streak
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragrahuwanshi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragrahuwanshi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-🐍 Contribution Animation
+🐍 Contribution Snake Animation
 <p align="center">
-  <a href="https://github.com/Anuragrahuwanshi/Anuragrahuwanshi/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 🤝 Connect With Me
