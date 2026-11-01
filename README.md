@@ -41,7 +41,7 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 
 🐍 Contribution Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 </p>
 
 🤝 Connect With Me
