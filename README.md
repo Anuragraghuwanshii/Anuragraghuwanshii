@@ -35,9 +35,7 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 </p>
 
 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragrahuwanshi&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/main/profile/streak.svg)
 
 🐍 Contribution Animation
 <p align="center">
