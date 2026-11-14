@@ -30,19 +30,19 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 
 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuragrahuwanshi&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragrahuwanshi&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuragraghuwanshii&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragraghuwanshii&theme=tokyonight" alt="Top Languages" />
 </p>
 
 🐍 Contribution Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragraghuwanshii/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 </p>
 
 🤝 Connect With Me
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
-  <a href="https://github.com/Anuragrahuwanshi">
+  <a href="https://github.com/Anuragraghuwanshii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
